@@ -1,2 +1,4 @@
 The mainpy file is a text file having whole source code of the application.
 Before running the code, install required libraries.
+
+The buildozer.spec file is used during apk packaging using buildozer.

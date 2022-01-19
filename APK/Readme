@@ -1,0 +1,7 @@
+The .apk file works on most of the android devices with recent android versions.
+
+Before running the application after installation, allow permissions to : 
+1. Read Device Storage
+2. Write Device Storage
+3. Internet access
+
